@@ -35525,7 +35525,7 @@ t8(){var s=0,r=A.S(t.Ze),q,p=2,o=[],n,m,l,k,j,i
 var $async$t8=A.T(function(a,b){if(a===1){o.push(b)
 s=p}for(;;)switch(s){case 0:p=4
 s=7
-return A.O(A.awa(A.fi("http://www.infostudio.top:8888/api/strategy/selection")),$async$t8)
+return A.O(A.awa(A.fi("/api/strategy/selection")),$async$t8)
 case 7:n=b
 if(n.b===200){k=n
 m=B.cJ.dO(A.avV(A.au1(k.e)).dO(k.w))
