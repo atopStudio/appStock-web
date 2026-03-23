@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/(.*)",
-      "destination": "http://www.infostudio.top:8888/api/$1"
+      "destination": "https://www.infostudio.top:8888/api/$1"
     },
     {
       "source": "/(.*)",
